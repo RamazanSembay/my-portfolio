@@ -1,11 +1,12 @@
 import React from 'react'
 
-const Social = () => {
+const Header = () => {
   return (
     <div>
-      Social
+      Header
+
     </div>
   )
 }
 
-export default Social
+export default Header
