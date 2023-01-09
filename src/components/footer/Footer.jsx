@@ -21,7 +21,7 @@ const Footer = () => {
           <div className='footer__social'>
             <a
               href="https://ru-ru.facebook.com/"
-              className='footer__social-link' target="_blank">
+              className='footer__social-link' >
               <i class='bx bxl-facebook'></i>
             </a>
 
