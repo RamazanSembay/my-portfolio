@@ -16,24 +16,27 @@ const Footer = () => {
               <a href="#projects" className='footer__link'>Projects</a>
             </li>
 
+            <li>
+              <a href="#" className='footer__link'></a>
+            </li>
           </ul>
 
           <div className='footer__social'>
             <a
               href="https://ru-ru.facebook.com/"
-              className='footer__social-link' >
+              className='footer__social-link' target="_blank">
               <i class='bx bxl-facebook'></i>
             </a>
 
             <a
               href="https://www.instagram.com/nurramazan_sembayev/"
-              class='footer__social-link'>
+              class='footer__social-link' target="_blank">
               <i class="bx bxl-instagram"></i>
             </a>
 
             <a
               href="https://twitter.com/?lang=ru"
-              className='footer__social-link'>
+              className='footer__social-link' target="_blank">
               <i class='bx bxl-twitter'></i>
             </a>
           </div>
