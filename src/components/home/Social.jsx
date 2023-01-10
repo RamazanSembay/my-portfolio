@@ -5,21 +5,21 @@ const Social = () => {
         <div className='home__social'>
             <a
                 href="https://www.instagram.com/nurramazan_sembayev/"
-                className='home__social-icon' target="_blank">
+                className='home__social-icon' target="_blank" rel='noopener'>
                 <i class='uil uil-instagram'></i>
             </a>
 
             <a
                 href="https://vk.com/nurramazan_sembayev"
-                class='home__social-icon' target="_blank">
+                class='home__social-icon' target="_blank" rel='noopener'>
                 <i class="uil uil-vk-alt"></i>
             </a>
 
-            {/* <a
+            <a
                 href="https://github.com/"
-                className='home__social-icon' target="_blank">
+                className='home__social-icon' target="_blank" rel='noopener'>
                 <i class='uil uil-github-alt'></i>
-            </a> */}
+            </a>
         </div>
     )
 }
