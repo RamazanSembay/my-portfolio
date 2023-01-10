@@ -21,19 +21,19 @@ const Footer = () => {
           <div className='footer__social'>
             <a
               href="https://ru-ru.facebook.com/"
-              className='footer__social-link' target="_blank">
+              className='footer__social-link' target="_blank" rel='noopener'>
               <i class='bx bxl-facebook'></i>
             </a>
 
             <a
               href="https://www.instagram.com/nurramazan_sembayev/"
-              class='footer__social-link' target="_blank">
+              class='footer__social-link' target="_blank" rel='noopener'>
               <i class="bx bxl-instagram"></i>
             </a>
 
             <a
               href="https://twitter.com/?lang=ru"
-              className='footer__social-link' target="_blank">
+              className='footer__social-link' target="_blank" rel='noopener'>
               <i class='bx bxl-twitter'></i>
             </a>
           </div>
