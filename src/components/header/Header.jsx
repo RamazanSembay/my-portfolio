@@ -19,7 +19,7 @@ const Header = () => {
     <header className="header">
       <nav className='nav container'>
         <a href='index.html' className='nav__logo'>
-          Nurramazan Sembay
+          NURRAMAZAN SEMBAY
         </a>
 
         <div className={Toggle ? "nav__menu show-menu" : "nav__menu"}>
